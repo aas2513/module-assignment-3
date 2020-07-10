@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(124, 207, 233);
+    color: #000000;
+}
+.navigation{
+    background-color: pink;
+    border-bottom: 2px solid black;
+}
+.navigation>a{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.heading{
+    font-size: 1.5rem;
+    padding: 15px;
+}
+.content{
+    border: 2px solid black;
+    padding: 5px;
+    margin-bottom: 20px;
+}
